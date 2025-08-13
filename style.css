@@ -1,0 +1,14 @@
+body.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+}
+
+.faq-question {
+    cursor: pointer;
+    color: blue;
+}
